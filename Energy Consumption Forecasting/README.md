@@ -4,16 +4,16 @@ This project uses machine learning techniques to forecast energy consumption dat
 ## Requirements
 
 Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scikit-learn
+-xgboost
 
 You can install the required libraries using the following command:
 
-bash```
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 ## Dataset
